@@ -62,7 +62,7 @@ textarea{
 
 .agenda-text {
   background-color: #aca1a1;
-  color: white;
+  color: rgb(0, 0, 0);
   border-top: 1px solid white;
 }
 .past {
